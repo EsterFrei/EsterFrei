@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EsterFrei
 - 👀 I’m interested in discovering Development World
 - 🌱 I’m currently learning what is Git and how to deal with Github 
-- 💞️ I’m looking to collaborate on enthusiastic guys
+- 💞️ I’m looking to collaborate with enthusiastic guys
 - 📫 How to reach me: freivonsorgen@gmail.com
   
 <!---
